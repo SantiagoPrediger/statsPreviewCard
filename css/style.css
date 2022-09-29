@@ -44,6 +44,8 @@ main {
 }
 #layer {
     background-color: var(--Layer);
+    height: 100%;
+    width: 100%;
 }
 .section2 {
     padding: 40px 33px;
