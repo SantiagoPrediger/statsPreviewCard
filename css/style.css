@@ -13,7 +13,7 @@
     --white: hsl(0, 0%, 100%);
     --slightlyTransparentP: hsla(0, 0%, 100%, 0.75);
     --slightlyTransparentS: hsla(0, 0%, 100%, 0.6);
-    --Layer: rgba(110,30,160,0.7);
+    --Layer: rgba(110, 30, 160, 0.623);
 }
 
 * {
@@ -109,7 +109,6 @@ p {
         height: 100%;
         width: 540px;
         background-image: url(/images/image-header-desktop.jpg);
-        
     }
     .section2 {
         padding: 75px 70px;
